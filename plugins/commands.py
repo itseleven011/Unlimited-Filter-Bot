@@ -244,7 +244,7 @@ async def help(client, message):
             [
                 [
                     InlineKeyboardButton("Movies Channel", url="https://t.me/Moviezzclub"),
-                    InlineKeyboardButton("About Me", callback_data="about_data")
+                    InlineKeyboardButton("Click kiya toh Tu lawda", callback_data="about_data")
                 ],
                 [
                     InlineKeyboardButton("Main Channel", url="https://t.me/Moviezzclub"),
